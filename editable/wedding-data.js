@@ -16,8 +16,8 @@ window.WEDDING_DATA = {
   },
 
   wedding: {
-    dateISO: "2026-11-12T18:00:00+05:30",
-    dateLabel: "Thursday, 12th November 2026",
+    dateISO: "2026-11-21T18:00:00+05:30",
+    dateLabel: "Saturday, 21st November 2026",
     timeLabel: "Engagement at 6:00 PM",
   },
 
@@ -36,7 +36,7 @@ window.WEDDING_DATA = {
     {
       name: "Engagement Ceremony",
       icon: "heart",
-      date: "Thursday, 12th November 2026",
+      date: "Saturday, 21st November 2026",
       time: "6:00 PM onwards",
       venue: "Hablis Hotel, Guindy, Chennai",
       note: "Exchange of rings & traditional engagement ceremony followed by dinner and celebrations.",
