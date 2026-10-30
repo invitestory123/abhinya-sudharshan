@@ -103,3 +103,17 @@ main {
   border-color: rgba(225, 175, 70, 0.4) !important;
   box-shadow: 0 4px 20px rgba(185, 28, 68, 0.15) !important;
 }
+
+/* ========================================================
+   CUSTOM CAPITAL 'A' FIX FOR SCRIPT FONT
+   Replaces ambiguous oval 'A' with clear, elegant cursive Capital 'A'
+   ======================================================== */
+@font-face {
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../external/fonts.gstatic.com/s/allura/v23/Allura-Regular.ttf) format('truetype'),
+       url(https://fonts.gstatic.com/s/allura/v23/9oRPNYsQpS4zjuAPjA.ttf) format('truetype');
+  unicode-range: U+0041;
+}
